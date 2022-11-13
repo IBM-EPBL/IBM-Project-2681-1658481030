@@ -1,27 +1,39 @@
-﻿# Smart Fashion Recommender
+# Smart Fashion Recommender Application
 
-Domain:Cloud App Development
 
-BatchName : B8-2A4E
- 
- Team ID : PNT2022TMID08665
+## Category: Cloud App Development
 
-Team Size : 4
 
-Team Leader : HARIHARN S
+**Batch Name :** B8-2A4E
 
-Team member : VASEEM AHAMED 
+---
 
-Team member : DANIEL RAJA RATHINAM
+**Team ID :** PNT2022TMID08665
 
-Team member : PRADEESH P
+**Team Size :** 4
 
-Industry Mentor(s) Name : Krishna Chaitanya
+**Team Leader :** HARIHARAN S
 
-Faculty Mentor(s) Name : SUGANYA B
+**Team member :** VASEEM AHAMED
 
-Degree : Bachelor of Engineering/Technology
+**Team member :** DANIEL RAJA RATHINAM
 
-Branch : Computer Science Engineering
+**Team member :** PRADEESH P
 
-College : Dr.MAHALINGAM COLLEGE OF ENGINEERING AND TECHNOLOGY
+---
+**Industry Mentor(s) Name :** Krishna Chaitanya
+
+**Faculty Mentor(s) Name :** Suganya B
+
+---
+
+**Degree	:**	
+Bachelor of Engineering/Technology
+
+**Branch	:**	
+Computer Science Engineering
+
+**College	:**	
+ Dr.MAHALINGAM COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+---
