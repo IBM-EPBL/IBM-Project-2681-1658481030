@@ -37,3 +37,16 @@ Computer Science Engineering
  Dr.MAHALINGAM COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 ---
+## Assignment  
+
+ - [Team Leader : HARIHARAN S](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Assessment/Team%20lead)
+ - [Team member : VASEEM AHAMED](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Assessment/Vaseem)
+ - [Team member : DANNIEL RAJA RATHINAM](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Assessment/Daniel)
+ - [Team member : PRADEESH P](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Assessment/Pradeesh)
+---
+## Project Design & Planning
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Pre-Development/Ideation%20phase)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Pre-Development/Project%20Design%20Phase%20I)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Pre-Development/Project%20Design%20Phase%20II)
+- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-2681-1658481030/tree/main/Pre-Development/Project%20Planning)
+
