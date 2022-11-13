@@ -1,6 +1,6 @@
 ﻿# Smart Fashion Recommender
- #Domain:Cloud App Development
- Batch Name : B8-2A4E
+﻿# Domain:Cloud App Development
+﻿# BatchName : B8-2A4E
  
  Team ID : PNT2022TMID08665
 
